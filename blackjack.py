@@ -1,3 +1,4 @@
+# This program creates a blackjack board
 import random
 
 #
